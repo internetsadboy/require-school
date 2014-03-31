@@ -1,5 +1,6 @@
-import interpreter.*;
-import interpreter.byteCodes.*;
+package interpreter;
+
+import byteCodes.*;
 import java.io.*;
 /**
  * <pre>
